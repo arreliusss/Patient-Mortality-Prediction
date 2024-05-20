@@ -20,6 +20,7 @@ After that, you can execute the notebook sequentially
 
 
    This notebook will output various results which are:
+   - Heatmap for selected attributes
    - Confusion Matrices for each model
    - Classification Reports for each model, such as precision, recall, F1-score, and accuracy
 
